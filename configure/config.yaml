@@ -1,0 +1,7 @@
+mssql :
+    databaseType    : "mssql"
+    server          : "database-2.cfzixrzxtpzv.us-east-1.rds.amazonaws.com"
+    port            : 1433
+    user            : "malar"
+    password        : "pond_62050"
+    database        : "master"

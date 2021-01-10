@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+ConMssql.go
+sql.go
+sqlgorm.go
+sqlorm.go
+sqlserver.go
+TestConData.go
+viper.go
+main.go

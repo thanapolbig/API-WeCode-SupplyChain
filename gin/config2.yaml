@@ -1,0 +1,6 @@
+ mssql :
+    server   : 54.157.149.31
+    port     : 1433
+    user     : sa
+    password : pond_62050
+    database : example
