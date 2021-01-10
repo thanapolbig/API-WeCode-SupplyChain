@@ -8,13 +8,3 @@ go run .
 
 # Example Endpoint 
 import post man : WeCodeSup.postman_collection.json
-
-
- 
-
-
-# Api-WeCode-SupplyChain
-# MIKE
-# TEST1
-# TEST2
-# TEST3
